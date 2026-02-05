@@ -1,28 +1,45 @@
 # DO GRAVE À CRASE: A Matemática da Fusão
-**Autora:** Geisa Silva de Oliveira
+## Guia de Uso do Acento Grave e do Fenômeno da Fusão
 
-> "Crase: onde dois corpos ocupam, ao mesmo tempo, o mesmo espaço."
+**Autora:** GEISA SILVA DE OLIVEIRA  
+
+> "Crase: onde dois corpos ocupam, ao mesmo tempo, o mesmo espaço!"  
+> **$A + A = À$**
 
 ---
 
-## 📌 Introdução
-Este guia propõe uma leitura contínua. Para compreender a lógica da fusão, não interrompa o fluxo até o final da primeira leitura.
+### 📖 Instrução de Leitura
+Faça uma leitura total e sem interrupções de todo o texto para melhor compreensão de conceitos e termos associados. Não retorne ao início antes de terminá-la ao menos uma vez por completo.
 
-## 📐 O Acento Grave ( ` )
-O acento grave é um sinal diacrítico oblíquo, inclinado à esquerda. Ele é aplicado sobre a letra **A** para sinalizar a aglutinação de classes distintas (Preposição + Artigo/Pronome).
+---
 
-### Funções do Sinal:
-1. **Marcador Fonológico:** Indica o fenômeno da crase (fusão de sons idênticos).
-2. **Índice de Preposição:** Um recurso estilístico e histórico que evita a ambiguidade, garantindo clareza e eliminando duplas interpretações.
+## 📐 O ACENTO GRAVE
+O **grave** ( ` ) é um sinal diacrítico oblíquo, com inclinação à esquerda, aplicado acima da letra **A** quando há aglutinação de palavras formadas por ela nas classes de preposição, artigo ou pronome. 
 
-## 🧮 O Fenômeno da Crase
-A crase é a fusão de vogais com mesma grafia e som, mas identidades diferentes. 
+É usado, principalmente, para marcar o processo fonológico do fenômeno da crase (fusão de fonemas iguais na frase). Este sinal, conhecido por marcar a presença de crase no texto, também exerce a função de **índice de preposição** — um fator histórico de transformação da palavra, conservado na estilística literária. 
 
-### A Prova Real
-Diferente da decoreba tradicional, a crase é uma operação matemática passível de desmembramento:
-* **Equação de Ida:** $A + A = À$
-* **Equação de Volta (Prova):** $À = A + A$
-* **A Lógica da Subtração:** $À = 2A - 1A$ (O acento é o registro do som que foi suprimido para evitar a cacofonia).
+Neste caso, o objetivo é evitar a ambiguidade e conferir mais clareza às frases, impedindo a possibilidade de mais de uma interpretação no texto.
 
-## 🔊 Fluidez Fonológica
-O encontro de dois sons de "A" abertos ($á + á$) gera um hiato desconfortável (uma espécie de "gagueira" gramatical). A norma culta exige a fusão para garantir a fluidez da comunicação. O sinal grave é, portanto, o certificado de que a fluidez foi mantida.
+---
+
+## 🧮 O FENÔMENO DA CRASE
+### Dá para fazer operação matemática na gramática?
+
+A crase é a fusão de vogais com mesma grafia e som, mas com significados diferentes, que se unem e se desmembram como em uma equação matemática. Por isso, o fenômeno da crase é passível de **prova real**:
+
+$$À = A + A \quad / \quad A + A = À$$
+
+A crase é um evento da língua portuguesa ocasionado pelo encontro de termos formados com o som de “A” aberto (**Á**), quando exercem as funções de preposição e artigo (ou pronome), respectivamente. 
+
+Este encontro de “ais” forma um **hiato de pronúncia cacofônico** — uma espécie de "gagueira" sonora que horroriza a norma culta, a qual é rígida quanto à pronúncia e à escrita.
+
+### A Lógica da Supressão
+O fenômeno da crase é um processo de som natural humano, descrito na norma culta para evitar a cacofonia e suavizar a comunicação, gerando fluidez fonológica ao indicar, pelo acento grave, o encontro das palavras e a supressão de um som. 
+
+Logo:
+$$À = 2A - 1A!$$
+
+---
+
+## 🛠 Status do Projeto
+Este repositório é um manual em construção. Em breve, serão adicionados os módulos de **Casos Impeditivos** e **Desmembramento Prático**.
