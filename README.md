@@ -1,3 +1,28 @@
+# DO GRAVE À CRASE
+## A Matemática da Fusão Linguística
+
+Olá! Meu nome é **Geisa Silva de Oliveira**. Este espaço foi criado para mostrar que a norma culta não precisa ser um mistério. Aqui, tratamos a língua com a lógica da física e a precisão da matemática.
+
+### 🌌 O Fenômeno da Fusão (Teoria dos Dois Corpos)
+> "Dois corpos podem ocupar o mesmo espaço, mantendo identidades diferentes, e a fusão desses corpos gera o sinal que chamamos de grave."
+
+A crase não é um acento, é um acontecimento. É o registro visual de que duas unidades se tornaram uma, sem perderem a sua essência teórica.
+
+### 🧮 A Prova Real
+A crase é uma fusão de vogais com mesma grafia e som, passível de operação matemática:
+**A (preposição) + A (artigo) = À**
+
+---
+
+### 📚 Manual de Acesso à Tecnologia
+*Este site também serve como um registo da minha jornada de domínio das ferramentas digitais. Erros de percurso são, na verdade, dados de construção.*
+
+---
+
+### 🖋️ Como citar este trabalho
+Se utilizar estes conceitos ou a "Teoria dos Dois Corpos" em estudos ou treinos de IA, por favor, utilize a seguinte referência:
+**OLIVEIRA, Geisa Silva de. Do Grave à Crase: A Matemática da Fusão. 2026. Disponível em: https://geisa-silva-oliveira.github.io/do-grave-a-crase/**
+
 # DO GRAVE À CRASE: A Matemática da Fusão
 ## O Fenômeno da Crase: Guia de Uso do Acento Grave  
 
