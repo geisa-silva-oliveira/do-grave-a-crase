@@ -1,5 +1,5 @@
 # DO GRAVE À CRASE: A Matemática da Fusão
-## Guia de Uso do Acento Grave e do Fenômeno da Fusão
+## Guia de Uso do Acento Grave e do Fenômeno da Crase
 
 **Autora:** GEISA SILVA DE OLIVEIRA  
 
