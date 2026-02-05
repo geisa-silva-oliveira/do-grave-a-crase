@@ -37,7 +37,7 @@ Este encontro de “ais” forma um **hiato de pronúncia cacofônico** — uma 
 O fenômeno da crase é um processo de som natural humano, descrito na norma culta para evitar a cacofonia e suavizar a comunicação, gerando fluidez fonológica ao indicar, pelo acento grave, o encontro das palavras e a supressão de um som. 
 
 Logo:
-$$À = 2A - 1A!$$
+$$À = 2A - A!$$
 
 ---
 
